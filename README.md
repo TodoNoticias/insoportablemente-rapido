@@ -1,9 +1,12 @@
 # insoportablemente-rapido 
 Herramientas:
 https://developers.google.com/speed/pagespeed/insights/
+
 http://tinypng.org/
+
 https://ngrok.com
-WebPagetest
+
+http://www.webpagetest.org/
 http://jonassebastianohlsson.com/criticalpathcssgenerator/
 https://yui.github.io/yuicompressor/
 http://httpd.apache.org/docs/current/mod/mod_deflate.html
